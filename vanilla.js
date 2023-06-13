@@ -22,6 +22,7 @@ let alicia = jobs.alicia;
 
 console.log(`Mike: ${mike}\nJill: ${jill}\nAlicia: ${alicia}`);
 console.log('-------------');
+
 // Vanilla JS Subsets
 
 let languages = ['English', 'French', 'Spanish', 'German', 'Japanese'];
